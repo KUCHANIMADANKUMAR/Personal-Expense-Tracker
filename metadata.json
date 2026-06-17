@@ -1,0 +1,10 @@
+{
+  "name": "Personal Expense Tracker",
+  "description": "A beautiful, premium personal finance and expense tracker featuring interactive analytics, savings goals, monthly budgets, and AI-powered wealth insights.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
